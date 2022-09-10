@@ -1,0 +1,311 @@
+body{
+    position: relative;
+width: 1600px;
+height: 1200px;
+overflow: scroll;
+background: rgba(235, 252, 244, 0.42);
+}
+
+html{
+    position: relative;
+width: 1600px;
+height: 1200px;
+}
+
+.desktop{
+    position: absolute;
+    width: 1064.38px;
+    height: 756.89px;
+    left: 268px;
+    top: 222px;
+    
+    background: #EBFCF4;
+}
+
+.frame9{
+    position: absolute;
+width: 532.19px;
+height: 764.28px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border-radius: 0px 51.7405px 51.7405px 0px;
+}
+
+.logo{
+    position: absolute;
+width: 82.78px;
+height: 73.91px;
+left: 30.31px;
+top: 25.13px;
+
+background: url();
+}
+
+.heading1{
+    position: absolute;
+width: 111.61px;
+height: 56.91px;
+left: 137.48px;
+top: 34px;
+
+font-family: 'Athiti';
+font-style: normal;
+font-weight: 600;
+font-size: 35.4792px;
+line-height: 57px;
+/* identical to box height */
+
+
+color: #0B4654;
+}
+
+
+.heading2{
+    position: absolute;
+width: 200.31px;
+height: 47.31px;
+left: 101.26px;
+top: 168.53px;
+
+font-family: 'Athiti';
+font-style: normal;
+font-weight: 600;
+font-size: 29.566px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #0B4654;
+}
+
+
+.heading3{
+    box-sizing: border-box;
+padding-left:30px;
+position: absolute;
+width: 328.92px;
+height: 41.39px;
+left: 101.26px;
+top: 232.09px;
+
+border: 1.4783px solid rgba(11, 70, 84, 0.25);
+border-radius: 5.91319px;
+border-width: 0.5px;
+}
+
+#logo2{
+    background: url(carbon_user-avatar-filled.png) no-repeat left 8.35px top 8.83px;
+
+
+}
+
+#logo3{
+    background: url(ic_outline-alternate-email.png) no-repeat left 8.35px top 8.83px;
+    padding-left:30px;
+
+}
+
+
+#logo4{
+    background: url(pass-hide.png) no-repeat left 8.35px top 8.83px;
+    padding-left:30px;
+    
+
+}
+
+.heading3::placeholder{
+    position: absolute;
+width: 50.26px;
+height: 19.22px;
+left: 36.22px;
+top: 11.09px;
+
+font-family: 'Athiti';
+font-style: normal;
+font-weight: 400;
+font-size: 11.8264px;
+line-height: 19px;
+
+color: rgba(0, 0, 0, 0.5);
+}
+
+
+
+.heading4{
+    box-sizing: border-box;
+
+position: absolute;
+width: 328.92px;
+height: 41.39px;
+left: 101.26px;
+top: 291.22px;
+
+border: 1.4783px solid rgba(11, 70, 84, 0.25);
+border-radius: 5.91319px;
+}
+
+.heading4::placeholder{
+    position: absolute;
+width: 68.74px;
+height: 19.22px;
+left: 36.22px;
+top: 11.09px;
+
+font-family: 'Athiti';
+font-style: normal;
+font-weight: 400;
+font-size: 11.8264px;
+line-height: 19px;
+
+color: rgba(0, 0, 0, 0.5);
+}
+
+.heading5{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 328.92px;
+height: 41.39px;
+left: 101.26px;
+top: 350.36px;
+
+border: 1.4783px solid rgba(11, 70, 84, 0.25);
+border-radius: 5.91319px;
+}
+
+.heading5::placeholder{
+    position: absolute;
+width: 45.83px;
+height: 19.22px;
+left: 36.22px;
+top: 11.09px;
+
+font-family: 'Athiti';
+font-style: normal;
+font-weight: 400;
+font-size: 11.8264px;
+line-height: 19px;
+
+color: rgba(0, 0, 0, 0.5);
+}
+
+.heading6{
+    box-sizing: border-box;
+
+position: absolute;
+width: 17.74px;
+height: 17.74px;
+left: 101.26px;
+top: 405.79px;
+
+border: 0.739149px solid rgba(11, 70, 84, 0.24);
+border-radius: 2.9566px;
+}
+
+.heading7{
+    position: absolute;
+width: 151.53px;
+height: 19.22px;
+left: 129.35px;
+top: 405.05px;
+
+font-family: 'Athiti';
+font-style: normal;
+font-weight: 400;
+font-size: 11.8264px;
+line-height: 19px;
+
+color: rgba(0, 0, 0, 0.5);
+}
+
+.heading8{
+    color: rgba(7, 180, 100, 1);
+    text-decoration: none;
+}
+
+.heading9{
+    position: absolute;
+width: 328.92px;
+height: 41.39px;
+left: 101.26px;
+top: 463.45px;
+border-width: 0px;
+background: #07B464;
+box-shadow: 0px 2.9566px 2.9566px rgba(0, 0, 0, 0.25), inset 0px 1.4783px 2.9566px rgba(255, 255, 255, 0.25), inset 0px -1.4783px 2.9566px rgba(0, 0, 0, 0.25);
+border-radius: 11.8264px;
+}
+
+.heading9::first-line{
+    position: absolute;
+width: 40.65px;
+height: 19.22px;
+left: 144.13px;
+top: 11.09px;
+
+font-family: 'Athiti';
+font-style: normal;
+font-weight: 500;
+font-size: 11.8264px;
+line-height: 19px;
+
+color: #FFFFFF;
+}
+
+.heading10{
+    position: absolute;
+width: 531px;
+height: 754px;
+left: 532px;
+top: 0px;
+background: #EBFCF4;
+
+}
+
+
+
+
+
+.field-icon {
+    float: right;
+    margin-left: -25px;
+    margin-top: -25px;
+    position: relative;
+    z-index: 2;
+  }
+  
+  .container{
+    padding-top:50px;
+    margin: auto;
+  }
+
+
+
+  .hea{
+    border: none;
+    display: inline-block;
+}
+
+.q1{
+    display: inline-block;
+    top: 4px;
+    left: -193px;
+    position: relative;
+}
+
+.pass-icon{
+    display: inline-block;
+    width: 20px;
+    display: inline-block;
+    width: 20px;
+    position: relative;
+    top: 7px;
+    left: 70px;
+}
+
+
+input:focus-visible{
+    outline: none;
+}
